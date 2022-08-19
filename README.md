@@ -65,7 +65,7 @@
 
 <!-- Github stats -->
 
-## **📉Quick Stats ➜**
+<h2 style="font-weight:bold; border-bottom:none;">📉Quick Stats ➜</h2>
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anujXcodes&show_icons=true&theme=jolly" />
@@ -73,4 +73,5 @@
 </div>
 
 <!-- [![Anuj's github activity graph](https://activity-graph.herokuapp.com/graph?username=anujXcodes&bg_color=ffcfe9&color=000000&line=f26ed5&point=fdf7f7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=anujXcodes&bg_color=fce2db&color=704095&line=ff90b1&point=b270a0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
